@@ -12,24 +12,7 @@
   <li>A box is colored RED if unsafe and GREEN if safe.</li>
 </ul>
 
-## Getting started
 
-1. Clone and download the repo
-```bash
-  git clone <this_repo_url>
-```
-
-2. Then download the YOLOv3 weights from this <a href="https://pjreddie.com/media/files/yolov3.weights">link</a> and store it in the yolov3 folder as <b>yolov3.weights</b>
-
-3. Download the required python packages
-```bash
-pip install -r requirements.txt
-```
-
-4. Run the main.py file
-```bash
-python main.py
-```
 
 ## Demo
 
@@ -66,5 +49,5 @@ Also, do give my medium article a read! <a href="https://medium.com/@sherwyndsou
 <b><i>PPS: Stay Home and Stay Safe!😊 </i><b>
 
 <br>
-&copy; Sherwyn D'souza 2020
+&copy;tanibha majumder2021
 # socail-distance-Analyzer-1
