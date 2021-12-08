@@ -36,11 +36,7 @@ Output video
   <li><a href="https://pjreddie.com/darknet/yolo/">YOLO for Object Detection</a></li>
 </ul>
 
-## License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-[MIT License Link](https://github.com/sherwyn11/Social-Distancing-Analyzer/blob/master/LICENSE)
 
 
 Also, do give my medium article a read! <a href="https://medium.com/@tanibhamajumder/social-distance-analyzer-5a6dd214aedf">Click Here</a>
