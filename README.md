@@ -41,8 +41,7 @@ Output video
 
 Also, do give my medium article a read! <a href="https://medium.com/@tanibhamajumder/social-distance-analyzer-5a6dd214aedf">Click Here</a>
 
-<b><i>PS: This is my first OpenCV project. Will work on more in the future.</i><b><br></br>
-<b><i>PPS: Stay Home and Stay Safe!😊 </i><b>
+
 
 <br>
 &copy;tanibha majumder2021
